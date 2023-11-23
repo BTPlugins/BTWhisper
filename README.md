@@ -1,7 +1,7 @@
 # BTWhisper
 
 ## Commands
-/Msg <Player> <Message | ``BTWhisper.Msg``
-/Reply <Message> | ``BTWhisper.Reply``
+/Msg <Player> <Message | ``BTWhisper.Msg`` <br />
+/Reply <Message> | ``BTWhisper.Reply`` <br />
 /ToggleMessages | ``BTWhisper.ToggleMessages``
 
